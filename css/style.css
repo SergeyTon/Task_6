@@ -1,0 +1,121 @@
+body {
+      margin: 0;
+      padding: 0;
+
+}
+
+h1 {
+      border: 1px solid black;
+      width: 800px;
+      margin: 10px 70px;
+      padding: 20px 40px;
+      font-family: 'Franklin Gothic Medium';
+      text-align: left;
+      background-color: antiquewhite;
+}
+
+ul {
+      border: 1px solid black;
+      width: 800px;
+      padding: 40px;
+      margin: 70px;
+      background-color: antiquewhite;
+
+}
+
+li {
+      padding: 25px 10px;
+
+}
+
+
+h2 {
+      border: 1px solid black;
+      width: 800px;
+      margin: 10px 40px;
+      padding: 20px 40px;
+      font-family: 'Franklin Gothic Medium';
+      text-align: left;
+      background-color: rgb(221, 228, 213);
+}
+
+h3 {
+      margin: 10px 70px;
+      padding: 20px 40px;
+      font-family: 'Franklin Gothic Medium';
+      text-align: left;
+
+}
+
+div {
+      display: block;
+      border: 1px solid black;
+      width: 800px;
+      margin: 40px;
+      padding: 40px;
+      font-family: 'Franklin Gothic Medium';
+      text-align: left;
+      font-size: 18px;
+      background-color: rgb(221, 228, 213);
+}
+
+a {
+      margin: 0;
+      padding: 0;
+      font-family: 'Franklin Gothic Medium';
+      text-align: left;
+      font-size: 18px;
+      color: black;
+}
+
+form {
+      border: 1px solid black;
+      width: 800px;
+      padding: 20px 40px;
+      margin: 60px 40px;
+      font-family: 'Franklin Gothic Medium';
+      text-align: left;
+      font-size: 18px;
+      background-color: rgb(221, 228, 213);
+
+}
+
+label {
+      padding: 0 80px 0 0;
+}
+
+input {
+      width: 300px;
+      height: 20px;
+}
+button {
+      border: 1px solid black;
+      height: 20px;
+      background-color: rgb(103, 4, 4);
+      font-family: 'Franklin Gothic Medium';
+      color: aliceblue;
+}
+#duplicateField {
+      border: 1px solid black;
+      width: 880px;
+      height: 200px;
+      margin: 30px 40px;
+}
+
+#trafficLight {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: black;
+      margin: 10px 70px;
+      padding: 50px;
+
+    }
+    #trafficLightE1, #trafficLightE2, #trafficLightE3 {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: black;
+      margin: 20px 90px;
+      padding: 0;
+    }
